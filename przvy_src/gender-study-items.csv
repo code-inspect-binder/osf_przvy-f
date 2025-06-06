@@ -1,0 +1,49 @@
+Item,ItemType,GramGender,Noun,QuestionCode,Group1,Group2
+C’est une star de la course à pied.,experimental,feminine,star/as,star,yes,no
+C’est un as de la course à pied.,experimental,masculine,star/as,as,no,yes
+Cette personne ne se souvient même plus de son nom.,experimental,feminine,personne/individu,personne,no,yes
+Cet individu ne se souvient même plus de son nom.,experimental,masculine,personne/individu,individu,yes,no
+La dépouille fut transportée dans un cercueil.,experimental,feminine,dépouille/cadavre,depouille,yes,no
+Le cadavre fut transporté dans un cercueil.,experimental,masculine,dépouille/cadavre,cadavre,no,yes
+"Avec ses manières, c'est une véritable bête de foire.",experimental,feminine,bête/phénomène,bete,no,yes
+"Avec ses manières, c'est un véritable phénomène de foire",experimental,masculine,bête/phénomène,phenomene,yes,no
+Un personnage de premier plan du gouvernement s'est exprimé à la radio.,experimental,feminine,personnage/personnalité,personnage,yes,no
+Une personnalité de premier plan du gouvernement s'est exprimée à la radio.,experimental,masculine,personnage/personnalité,personnalite,no,yes
+Une vedette de la chanson a été invitée pour présider le jury.,experimental,feminine,vedette/talent,vedette,no,yes
+Un talent de la chanson a été invité pour présider le jury.,experimental,masculine,vedette/talent,talent,yes,no
+C'est une célébrité du cinéma français.,experimental,feminine,célébrité/monument,celebrite,yes,no
+C'est un monument du cinéma français.,experimental,masculine,célébrité/monument,monument,no,yes
+La tête du groupe a accepté une interview à la télé.,experimental,feminine,tête/cerveau,tete,no,yes
+Le cerveau du groupe a accepté une interview à la télé.,experimental,masculine,tête/cerveau,cerveau,yes,no
+Tu n'es qu'une fourmi.,experimental,feminine,fourmi/microbe,fourmi,yes,no
+Tu n'es qu'un microbe.,experimental,masculine,fourmi/microbe,microbe,no,yes
+Ma petite merveille s’est fait un bobo au genou.,experimental,feminine,merveille/trésor,merveille,no,yes
+Mon petit trésor s’est fait un bobo au genou.,experimental,masculine,merveille/trésor,tresor,yes,no
+Ma petite crème a fait sa rentrée scolaire aujourd'hui.,experimental,feminine,crème/ange,creme,yes,no
+Mon petit ange a fait sa rentrée scolaire aujourd'hui.,experimental,masculine,crème/ange,ange,no,yes
+Cette sangsue m'a volé toutes mes économies.,experimental,feminine,sangsue/vautour,sangsue,no,yes
+Ce vautour m'a volé toutes mes économies.,experimental,masculine,sangsue/vautour,vautour,yes,no
+Une sommité du domaine a reçu le prix.,experimental,feminine,sommité/génie,sommite,yes,no
+Un génie du domaine a reçu le prix.,experimental,masculine,sommité/génie,genie,no,yes
+Cette fripouille a encore réussi à tromper tout le monde.,experimental,feminine,fripouille/charlatan,fripouille,no,yes
+Ce charlatan a encore réussi à tromper tout le monde.,experimental,masculine,fripouille/charlatan,charlatan,yes,no
+Claude m’a passé un coup de fil ce matin.,filler,,Claude,claude,yes,yes
+Dominique a une fracture au poignet.,filler,,Dominique,dominique,yes,yes
+Louison lisait un roman dans le train.,filler,,Louison,louison,yes,yes
+Lou se rend au commissariat pour un témoignage.,filler,,Lou,lou,yes,yes
+Camille ira chercher les enfants à l’école.,filler,,Camille,camille,yes,yes
+Sacha revient de la bibliothèque. ,filler,,Sacha,sacha,yes,yes
+Alex part en randonnée tout le week-end.,filler,,Alex,alex,yes,yes
+"Charlie, tu te trompes toujours. ",filler,,Charlie,charlie,yes,yes
+Dany vient d’acheter une maison.,filler,,Dany,dany,yes,yes
+"Sam, essaie de te concentrer.",filler,,Sam,sam,yes,yes
+Mallory n’assistera pas à l’enterrement de son grand-oncle.,filler,,Mallory,mallory,yes,yes
+Andréa va bientôt aller voir son médecin.,filler,,Andréa,andrea,yes,yes
+Kevin a sans doute dû partir à la plage.,filler,,Kevin,kevin,yes,yes
+Emma se promène en ville.,filler,,Emma,emma,yes,yes
+Constance a raté le bus.,filler,,Constance,constance,yes,yes
+Augustin a oublié ses clefs sur le bureau à la maison.,filler,,Augustin,augustin,yes,yes
+Raymond passera à la banque pour retirer de l’argent.,filler,,Raymond,raymond,yes,yes
+Paulette a fait ses courses ce matin.,filler,,Paulette,paulette,yes,yes
+Marie-Chantal porte des lunettes pour lire.,filler,,Marie-Chantal,mariechantal,yes,yes
+"Charles-Henri, n’oublie pas de fermer la porte quand tu sors.",filler,,Charles-Henri,charleshenri,yes,yes
